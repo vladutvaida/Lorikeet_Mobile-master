@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9347114-9af7-4b26-b0ea-e84aceeb1731" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1pWVNBA0DmBwy2HNbBR1g1g2fbu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Vlad\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9347114-9af7-4b26-b0ea-e84aceeb1731" name="Default Changelist" comment="" />
+      <created>1615298790998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615298790998</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="798" y="447" key="#PSD" timestamp="1615298982103">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="798" y="447" key="#PSD/3840.0.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1615298982103" />
+    <state x="736" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615298967677">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.0.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1615298967677" />
+    <state x="1061" y="455" key="FileChooserDialogImpl" timestamp="1615299188721">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="455" key="FileChooserDialogImpl/3840.0.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1615299188721" />
+    <state x="782" y="345" key="SettingsEditor" timestamp="1615300426574">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="345" key="SettingsEditor/3840.0.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1615300426574" />
+    <state x="1048" y="386" key="svn.repositoryBrowser" timestamp="1615299712427">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1048" y="386" key="svn.repositoryBrowser/3840.0.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1615299712427" />
+  </component>
+</project>
